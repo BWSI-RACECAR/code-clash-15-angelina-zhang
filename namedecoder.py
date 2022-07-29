@@ -89,7 +89,7 @@ class Solution:
               
             
 
-        final = "First name = {0}, Last name =  {1}, id = {2}".format(first, last, numb)
+        final = "First name = {0}, Last name = {1}, id = {2}".format(first, last, numb)
         return final
 
 
