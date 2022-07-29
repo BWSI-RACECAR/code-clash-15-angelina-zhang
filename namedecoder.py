@@ -76,7 +76,7 @@ class Solution:
                 elif mode == 2:
                     if id[i].isnumeric():
                         mode = 3
-                        third += id[i]
+                        numb += id[i]
                     else:
                         last += id[i]
                 else:
